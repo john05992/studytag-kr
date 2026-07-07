@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://studytag.kr/sitemap.xml
